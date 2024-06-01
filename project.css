@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.copy {
+    margin-top: 50px;
+    border-top: 2px rgb(255, 221, 2) solid;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-size: large;
+    gap: 15px;
+    width: 100% !important;
+    margin-bottom: 10px;
+}
+
+.foot {
+    gap: 50px;
+    size: 200px;
+    color: aqua;
+    text-align: center;
+}
